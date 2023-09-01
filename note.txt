@@ -1,0 +1,7 @@
+COMMAND TO GENERATE A MODULE
+===============================
+- nest g resource module-name
+
+INSTALL MONGOOSE FOR NESTJS
+================================
+- npm i mongoose @nestjs/mongoose
